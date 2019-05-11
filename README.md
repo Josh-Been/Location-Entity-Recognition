@@ -8,7 +8,7 @@ Make sure the text file is saved as ASCII or ANSI as UTF and Unicode may contain
 
 The NLP Entity Recognition using spaCy (https://spacy.io/) is based on this Towards Data Science blog post: https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
 
-Resulting interactive map visualization uses the Bing Maps geocoding API (http://www.bingmapsportal.com/) via the Geocoder library (https://geocoder.readthedocs.io/index.html).
+Resulting interactive map visualization uses the Bing Maps geocoding API (http://www.bingmapsportal.com/) via the Geocoder library (https://geocoder.readthedocs.io/index.html). *It is necessary to register for a freely available BING Maps Key to create the map visualization.*
 
 Resulting wordcloud visualization uses amueller's word cloud generator (https://github.com/amueller/word_cloud).
 
